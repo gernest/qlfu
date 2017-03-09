@@ -21,9 +21,7 @@ auto magically converted to possible ql schema.
 - [x] comprehensive examples/documentation
 - [x] fun . ql is fun, experiment with it and hopefully you will enjoy it as much as I did. 
 - [x] Auto increment id. We use a nice trick to give you unique auto increment id
-- [X] one to one relationship
-- [ ] one to many relationship
-- [ ] many to many relationship
+
 
 # Installation
     go get github.com/gernest/qlfu
