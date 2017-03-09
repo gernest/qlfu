@@ -5,6 +5,8 @@ Automated crud restful API on top of ql database.
 This allows you to have a quick , fun way to come up with good schema
 to use for ql database.
 
+ql  - refers to ql database https://github.com/cznic/ql
+
 # Caveats
 
 - This is not/ was not intended to be used in production. Stay safe don't try this at work.
