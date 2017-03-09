@@ -31,6 +31,10 @@ auto magically converted to possible ql schema.
 
 This is a command line application, meaning if you did setup properly your `GOPATH` and added `$GOPATH/bin` to your system `PATH` then the binary `qlfu` should be available in your shell.
 
+Or
+
+[Grab a pre compiled binary for the system of your choice](https://github.com/gernest/qlfu/releases)
+
 # [short] Usage
 
 ```shell
