@@ -1,4 +1,5 @@
 # qlfu
+[![Go Report Card](https://goreportcard.com/badge/github.com/gernest/qlfu)](https://goreportcard.com/report/github.com/gernest/qlfu) [![Build Status](https://travis-ci.org/gernest/qlfu.svg?branch=master)](https://travis-ci.org/gernest/qlfu)[![Coverage Status](https://coveralls.io/repos/github/gernest/qlfu/badge.svg?branch=master)](https://coveralls.io/github/gernest/qlfu?branch=master)
 
 Automated crud restful API on top of ql database.
 
